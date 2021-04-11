@@ -4,6 +4,9 @@
 - https://www.kaggle.com/benroshan/you-re-hired-analysis-on-campus-recruitment-data
 - https://www.kaggle.com/sayar1106/eda-on-naukri-com-data-using-plotly
 - https://www.kaggle.com/andresionek/is-there-any-job-out-there-kaggle-vs-glassdoor
+- https://github.com/Sruthi5797/Naukri_Project/blob/main/README.md
+- https://datascienceretreat.com/wp-content/uploads/2020/02/Salary-Prediction.pdf
+- http://cseweb.ucsd.edu/classes/sp15/cse190-c/reports/sp15/012.pdf
 
 
 ## Project ideas 
